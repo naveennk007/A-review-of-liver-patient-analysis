@@ -1,0 +1,57 @@
+/* Set font family and default font size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Style the page header */
+header {
+  background-color: #003366;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Style the page title */
+h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+/* Style the section headings */
+h2 {
+  font-size: 24px;
+  margin-top: 40px;
+}
+
+/* Style the paragraph text */
+p {
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Style the chart container */
+.chart-container {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+/* Style the chart title */
+.chart-title {
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+/* Style the chart itself */
+.chart {
+  height: 400px;
+}
+
+/* Style the table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Style the table headings */
+th {
